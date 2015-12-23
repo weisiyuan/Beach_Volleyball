@@ -1,1 +1,6 @@
-# Beach_Volleyball
+echo # Beach_Volleyball >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/weisiyuan/Beach_Volleyball.git
+git push -u origin master
